@@ -6,3 +6,8 @@ Bu kodda, collided adlı bir boolean değişken kullanarak çarpışma durumunu 
 Platformun çarpma anındaki ivme değerlerini kullanmak için çarpma anında collisionAccX, collisionAccY ve collisionAccZ değerlerini kullanabilirsiniz. Bu değerleri işlemlerinizde veya kontrol mekanizmanızda kullanabilirsiniz.
 
 Lütfen kodu Arduino'ya yükleyip çalıştırmadan önce, IMU'nun doğru bağlantıları yapıldığından ve HX711 yük hücresinin doğru pinlere bağlı olduğundan emin olun. Ayrıca, yük hücresinin kalibrasyonunu yapmanız gerekebilir.
+
+
+
+
+![MPU6050-Pinout](https://github.com/mftnakrsu/DAQ_imu_loadcell/assets/57320216/85831991-e086-4873-8ebf-6c90f1abe885)
